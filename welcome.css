@@ -64,3 +64,14 @@ body {
     margin-top: 80px;
 
 }
+
+.videos {
+    font-size: 100px;
+    text-align: center;
+    background: black;
+    color: red;
+}
+
+.recentvideos {
+    color: blue;
+}
